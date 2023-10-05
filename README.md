@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sudheer960
-- 👀 I’m interested in Full Stack Developer
-- 🌱 I’m currently learning Full Stack with MERN Specialization
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in React Frontend Developement
+- 🌱 I’m currently learning the React Redux
 - 📫 How to reach me tamtamsudheer.b.tech.ece@gmail.com
 
 <!---
